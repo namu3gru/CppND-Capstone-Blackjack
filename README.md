@@ -1,7 +1,8 @@
 # CppND-Capstone-BlackJack
 This is simple blackjack game for UDACITY capstone project.
-
-## Requirement
+<img src = "blackjack_screen.png"/><BR></BR><img src = "blackjack_demo.png"/><BR></BR>
+## Dependencies
+- CMake (>= 3.12): For project building
 - SDL2
 - C++17
 
@@ -17,7 +18,7 @@ This follows basic blackjack rules, no splitting, betting, doubling down or etc.
 ## Getting Started
 ### Notice 
 This requires SDL2 library(libsdl2-dev).
-### Building
+### Build and run
 This project contains cmake that allows you to make easy. 
 
 ```
@@ -25,4 +26,5 @@ mkdir build
 cd build
 cmake ..
 make
+./blackjack
 ```
