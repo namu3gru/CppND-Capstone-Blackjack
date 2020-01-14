@@ -1,6 +1,6 @@
 # CppND-Capstone-BlackJack
 This is simple blackjack game for UDACITY capstone project.
-<img src = "blackjack_screen.png"/><BR></BR><img src = "blackjack_demo.png"/><BR></BR>
+<BR></BR><img src = "blackjack_screen.png"/><BR></BR><img src = "blackjack_demo.png"/><BR></BR>
 ## Dependencies
 - CMake (>= 3.12): For project building
 - SDL2
