@@ -18,7 +18,7 @@ This follows basic blackjack rules, no splitting, betting, doubling down or etc.
 ## Getting Started
 ### Notice 
 This requires SDL2 library(libsdl2-dev).
-(For Ubuntu User)
+<BR></BR>(For Ubuntu User)
 ```
 sudo apt-get install libsdl2-dev
 ```
