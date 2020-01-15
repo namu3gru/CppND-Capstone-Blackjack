@@ -18,6 +18,13 @@ This follows basic blackjack rules, no splitting, betting, doubling down or etc.
 ## Getting Started
 ### Notice 
 This requires SDL2 library(libsdl2-dev).
+(For Ubuntu User)
+```
+sudo apt-get install libsdl2-dev
+```
+For more installation instructions, please visit
+https://wiki.libsdl.org/Installation
+
 ### Build and run
 This project contains cmake that allows you to make easy. 
 
